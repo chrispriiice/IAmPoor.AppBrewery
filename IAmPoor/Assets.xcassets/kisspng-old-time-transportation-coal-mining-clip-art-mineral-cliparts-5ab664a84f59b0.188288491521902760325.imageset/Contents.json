@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-old-time-transportation-coal-mining-clip-art-mineral-cliparts-5ab664a84f59b0.188288491521902760325.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-old-time-transportation-coal-mining-clip-art-mineral-cliparts-5ab664a84f59b0.188288491521902760325@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-old-time-transportation-coal-mining-clip-art-mineral-cliparts-5ab664a84f59b0.188288491521902760325@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
